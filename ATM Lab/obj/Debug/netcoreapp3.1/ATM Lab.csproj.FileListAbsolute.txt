@@ -1,0 +1,13 @@
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\obj\Debug\netcoreapp3.1\ATM Lab.csprojAssemblyReference.cache
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\obj\Debug\netcoreapp3.1\ATM Lab.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\obj\Debug\netcoreapp3.1\ATM Lab.AssemblyInfoInputs.cache
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\obj\Debug\netcoreapp3.1\ATM Lab.AssemblyInfo.cs
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\bin\Debug\netcoreapp3.1\ATM Lab.exe
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\bin\Debug\netcoreapp3.1\ATM Lab.deps.json
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\bin\Debug\netcoreapp3.1\ATM Lab.runtimeconfig.json
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\bin\Debug\netcoreapp3.1\ATM Lab.runtimeconfig.dev.json
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\bin\Debug\netcoreapp3.1\ATM Lab.dll
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\bin\Debug\netcoreapp3.1\ATM Lab.pdb
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\obj\Debug\netcoreapp3.1\ATM Lab.dll
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\obj\Debug\netcoreapp3.1\ATM Lab.pdb
+C:\Users\dylan\OneDrive\Documents\GrandCircus\ATM Lab\ATM Lab\ATM Lab\obj\Debug\netcoreapp3.1\ATM Lab.genruntimeconfig.cache
